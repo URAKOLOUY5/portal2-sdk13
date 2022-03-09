@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$basetexture "models/container_ride/blank"
+$surfaceprop default
+}

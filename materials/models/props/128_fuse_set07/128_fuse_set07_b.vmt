@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$basetexture "models/props/128_fuse_set07/128_fuse_set07_b"
+$surfaceprop metal
+}

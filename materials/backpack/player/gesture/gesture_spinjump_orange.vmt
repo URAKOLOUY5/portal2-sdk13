@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+$baseTexture "backpack\player\gesture\gesture_spinjump_orange"
+$vertexcolor 1
+$translucent 1
+}

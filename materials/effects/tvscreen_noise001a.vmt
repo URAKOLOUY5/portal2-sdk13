@@ -1,0 +1,192 @@
+one
+srcvar2 $a_s_noise
+resultvar $a_s_noise
+}
+GaussianNoise
+{
+mean $a_threshold
+halfwidth $a_t_halfwidth
+resultVar $a_threshold
+}
+LessOrEqual
+{
+srcVar1 $a_b_noise
+srcVar2 $a_threshold
+lessEqualVar $a_b_noise
+greaterVar $a_s_noise
+resultVar $temp
+}
+Subtract
+{
+srcvar1 $temp
+srcvar2 $alpha_bias
+resultvar $alpha
+}
+
+GaussianNoise
+{
+mean $zero
+halfwidth $j_b_halfwidth
+resultVar $j_b_noise
+}
+GaussianNoise
+{
+mean $zero
+halfwidth $j_s_halfwidth
+resultVar $j_s_noise
+}
+GaussianNoise
+{
+mean $j_threshold
+halfwidth $j_t_halfwidth
+resultVar $j_threshold
+}
+Abs
+{
+srcVar1 $j_b_noise
+resultVar $temp
+}
+LessOrEqual
+{
+srcVar1 $temp
+srcVar2 $j_threshold
+lessEqualVar $j_s_noise
+greaterVar $j_b_noise
+resultVar $temp
+}
+Add
+{
+srcvar1 $temp
+srcvar2 $j_basescale
+resultvar $tex2scale
+}
+
+GaussianNoise
+{
+mean $zero
+halfwidth $xo_b_halfwidth
+resultVar $xo_b_noise
+}
+GaussianNoise
+{
+mean $zero
+halfwidth $xo_s_halfwidth
+resultVar $xo_s_noise
+}
+GaussianNoise
+{
+mean $xo_threshold
+halfwidth $xo_t_halfwidth
+resultVar $xo_threshold
+}
+Abs
+{
+srcVar1 $xo_b_noise
+resultVar $temp
+}
+LessOrEqual
+{
+srcVar1 $temp
+srcVar2 $xo_threshold
+lessEqualVar $xo_s_noise
+greaterVar $xo_b_noise
+resultVar "$texoffset[0]"
+}
+
+
+
+
+
+
+TextureTransform
+{
+translateVar $texoffset
+resultVar $basetexturetransform
+}
+
+LinearRamp
+{
+resultVar "$tex2offset[0]"
+rate 500
+}
+LinearRamp
+{
+resultVar "$tex2offset[1]"
+rate -.2
+}
+TextureTransform
+{
+scaleVar $tex2scale
+translateVar $tex2offset
+resultVar $texture2transform
+}
+}
+}rollvar $detail2texturetransform
+texturescrollrate $detail2scrollrate
+texturescrollangle 0
+}
+}
+}
+e $detail1scrollrate
+texturescrollangle 190
+}
+TextureScroll
+{
+texturescrollvar $detail2texturetransform
+texturescrollrate $detail2scrollrate
+texturescrollangle 180
+}
+TextureScroll
+{
+texturescrollvar $basetexturetransform
+texturescrollrate $scrollrate
+texturescrollangle -180
+}
+}
+}
+noise
+resultvar $a_b_noise
+}
+GaussianNoise
+{
+mean $zero
+halfwidth $a_s_halfwidth
+resultVar $a_s_noise
+}
+Abs
+{
+srcVar1 $a_s_noise
+resultVar $a_s_noise
+}
+Subtract
+{
+srcvar1 $one
+srcvar2 $a_s_noise
+resultvar $a_s_noise
+}
+GaussianNoise
+{
+mean $a_threshold
+halfwidth $a_t_halfwidth
+resultVar $a_threshold
+}
+LessOrEqual
+{
+srcVar1 $a_b_noise
+srcVar2 $a_threshold
+lessEqualVar $a_b_noise
+greaterVar $a_s_noise
+resultVar $temp
+}
+
+GaussianNoise
+{
+mean $zero
+halfwidth $j_b_halfwidth
+resultVar $j_b_noise
+}
+GaussianNoise
+{
+mean $zero
+halfwidth $j_s_halfwidth
+result

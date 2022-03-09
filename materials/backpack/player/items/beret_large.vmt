@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+$baseTexture "backpack\player\items\beret_large"
+$translucent 1
+}

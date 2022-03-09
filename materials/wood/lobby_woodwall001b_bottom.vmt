@@ -1,0 +1,8 @@
+LightMappedGeneric
+{
+$basetexture "wood/lobby_woodwall001b_bottom"
+$surfaceprop wood
+"%noportal" 1
+$bumpmap "wood/lobby_woodwall001b_bottom-height-ssbump"
+$ssbump 1
+}

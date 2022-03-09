@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+$baseTexture "backpack\player\eggbot\eggbot_shell_burst"
+$translucent 1
+$vertexcolor 1
+}

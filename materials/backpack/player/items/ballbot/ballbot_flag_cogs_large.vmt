@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+$baseTexture "backpack\player\items\ballbot\ballbot_flag_cogs_large"
+$translucent 1
+}

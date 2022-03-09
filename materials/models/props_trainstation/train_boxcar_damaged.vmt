@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+$basetexture "models\props_trainstation\train_boxcar_damaged"
+
+
+
+
+
+
+
+$detail "detail\metal_detail_01"
+$detailscale "6.7890"
+$detailblendfactor .8
+$detailblendmode 0
+}

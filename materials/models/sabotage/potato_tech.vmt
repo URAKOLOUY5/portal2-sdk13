@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+$basetexture "models/sabotage/potato_tech"
+$bumpmap "models/sabotage/potato_tech_normal"
+
+$envmap env_cubemap
+$envmaptint "[.1 .1 .1]"
+
+$phong 1
+$phongboost 1
+$phongexponent 20
+$phongfresnelranges "[.5 1 2]"
+}

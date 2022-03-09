@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$basetexture "Models/props_wasteland/prison_switchbox01"
+$surfaceprop default
+}

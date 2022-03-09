@@ -1,0 +1,5 @@
+LightMappedGeneric
+{
+$basetexture "motel/hotel_carpet001b"
+$surfaceprop default
+}

@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+$basetexture "models/props/wall_pipes_bend02/wall_pipes_bend02"
+$surfaceprop metal
+$envmap env_cubemap
+$basealphaenvmapmask 1
+}

@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+
+$basetexture "models/Gibs/HGibs/Skull1"
+$bumpmap "models/gibs/hgibs/skull1_normal"
+
+
+
+}

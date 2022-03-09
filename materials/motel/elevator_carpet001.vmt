@@ -1,0 +1,6 @@
+LightMappedGeneric
+{
+$basetexture "motel/elevator_carpet001"
+$surfaceprop default
+"%noportal" 1
+}

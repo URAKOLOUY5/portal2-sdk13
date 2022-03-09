@@ -1,0 +1,14 @@
+UnlitGeneric
+{
+$baseTexture "anim_wp/ekg/ekg_anim"
+$selfillum 1
+Proxies
+{
+AnimatedTexture
+{
+animatedtexturevar $basetexture
+animatedtextureframenumvar $frame
+animatedtextureframerate 22
+}
+}
+}

@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+$basetexture "models/container_ride/comp_V2-mia_material14SG-newDoors_exp_brush_65"
+
+$surfaceprop default
+$selfillum 1
+$selfillummask "VGUI/white"
+$selfillumtint "[0.05 0.05 0.05]"
+}

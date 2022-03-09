@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+$baseTexture "backpack\player\items\eggbot\eggbot_flag_wonderful"
+$translucent 1
+}

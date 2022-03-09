@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+$basetexture "models/sabotage/bird_nest"
+$basemapalphaphongmask 1
+
+$phong 1
+$phongboost 1
+$phongexponent 20
+$phongfresnelranges "[.5 1 2]"
+}

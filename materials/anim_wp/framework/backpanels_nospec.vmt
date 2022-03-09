@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+$basetexture "anim_wp\framework\backpanels"
+$bumpmap "anim_wp\framework\backpanels_height-ssbump"
+$ssbump 1
+$SSBumpMathFix 1
+"%noportal" 1
+$surfaceprop metal
+"%keywords" "portal2 bts destruction"
+$reflectivity "[ .3 .3 .3 ]" 
+}

@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$basetexture "models\props\de_prodigy\wood_pallet_01"
+$surfaceprop wood
+}

@@ -1,0 +1,31 @@
+VertexLitGeneric
+{
+$basetexture "models/sabotage/led_light"
+$surfaceprop default
+
+$selfillum 1
+Proxies
+{
+Sine
+{
+sineperiod ".08"
+sinemin ".8"
+sinemax 1
+resultVar "$selfillumtint[0]"
+}
+Sine
+{
+sineperiod ".08"
+sinemin ".6"
+sinemax 1
+resultVar "$selfillumtint[1]"
+}
+Sine
+{
+sineperiod ".08"
+sinemin ".6"
+sinemax 1
+resultVar "$selfillumtint[2]"
+}
+}
+}

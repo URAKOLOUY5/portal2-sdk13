@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+$basetexture "models/bot_male/bot_male"
+$surfaceprop default
+$bumpmap "models/bot_male/button_normal"
+$phong 1
+$phongexponenttexture "models/bot_male/bot_male_exponent"
+$phongexponent 25
+$phongboost 1
+$phongfresnelranges "[1 1.5 2]"
+}

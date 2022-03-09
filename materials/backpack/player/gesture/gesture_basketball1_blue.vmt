@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+$baseTexture "backpack\player\gesture\gesture_basketball1_blue"
+$translucent 1
+}

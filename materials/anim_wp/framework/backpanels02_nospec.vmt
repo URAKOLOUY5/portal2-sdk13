@@ -1,0 +1,9 @@
+LightMappedGeneric
+{
+$basetexture "anim_wp/framework/backpanels02"
+$bumpmap "Metal/metalwall_bts_006a_normal"
+"%keywords" "portal2 bts destruction"
+$surfaceprop metal
+"%noportal" 1
+$reflectivity "[ .3 .3 .3 ]" 
+}

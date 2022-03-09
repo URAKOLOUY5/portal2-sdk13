@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+$baseTexture "backpack/player/items/soldier_viking_large"
+$translucent 1
+}

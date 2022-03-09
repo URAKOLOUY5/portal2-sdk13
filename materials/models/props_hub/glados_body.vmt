@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+$baseTexture "models\props_hub/glados_body"
+
+$surfaceprop metal
+
+
+
+
+
+
+
+}

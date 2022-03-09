@@ -1,0 +1,6 @@
+LightMappedGeneric
+{
+$basetexture "moon/moon_texture01"
+$surfaceprop rock
+"%keywords" "portal2 moon"
+}

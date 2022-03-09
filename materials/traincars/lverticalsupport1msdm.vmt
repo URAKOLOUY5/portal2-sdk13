@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+$basetexture "traincars/Lverticalsupport1MSDM_C"
+$surfaceprop default
+$bumpmap "traincars/Lverticalsupport1MSDM_B"
+
+$color2 "[.6 .6 .6]"
+$envmap env_cubemap
+$envmaptint "[.01 .01 .01]"
+$envmapcontrast 0
+$envmapsaturation 1
+
+$phong 1
+$phongboost ".7"
+$phongexponenttexture "traincars/Lverticalsupport1MSDM_S"
+$phongfresnelranges "[.1 .1 7]"
+$rimlight 1 
+$rimlightexponent 1 
+$rimlightboost 1 
+}

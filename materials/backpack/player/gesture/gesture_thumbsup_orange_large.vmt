@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+$baseTexture "backpack\player\gesture\gesture_thumbsup_orange_large"
+$translucent 1
+}

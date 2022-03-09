@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+$basetexture "models/props_p1_backstage/ball_launcher_backside"
+$surfaceprop default
+
+
+$phongexponent 15
+$phongboost ".5"
+$phongfresnelranges "[0 15 10]"
+}

@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+$baseTexture "backpack/player/items/summer_sale"
+$translucent 1
+}

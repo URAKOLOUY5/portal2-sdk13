@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+$basetexture "models/container_ride/fallingBeamDebrisCol"
+$bumpmap "models/container_ride/beam_plates_f_normal"
+$surfaceprop default
+$selfillum 1
+$selfillummask "VGUI/white"
+$selfillumtint "[0.015 0.015 0.015]"
+"!gameconsole?$phong" 1
+"!gameconsole?$phongboost" 3
+"!gameconsole?$halflambert" 0
+"!gameconsole?$phongDisableHalfLambert" 0
+"!gameconsole?$phongexponent" 55
+"!gameconsole?$phongfresnelranges" "[.2 .5 1]"
+"!gameconsole?$basemapalphaphongmask" 1
+"!gameconsole?$rimlight" 1
+"!gameconsole?$rimlightexponent" 20
+"!gameconsole?$rimlightboost" 3
+}

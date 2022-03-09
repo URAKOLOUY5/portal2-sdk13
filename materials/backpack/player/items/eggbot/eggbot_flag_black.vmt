@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+$baseTexture "backpack\player\items\eggbot\eggbot_flag_black"
+$translucent 1
+$vertexcolor 1
+}

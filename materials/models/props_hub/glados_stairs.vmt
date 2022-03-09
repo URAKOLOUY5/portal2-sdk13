@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+$baseTexture "models/props_hub/Glados_stairs"
+
+"%noportal" 1
+
+$surfaceprop metal
+
+
+
+
+
+
+}

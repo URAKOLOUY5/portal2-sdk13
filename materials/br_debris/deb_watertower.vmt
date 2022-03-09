@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+$basetexture "br_debris/deb_watertower_C"
+$surfaceprop default
+$bumpmap "traincars/deb_watertower_B"
+$ambientocclusion 1
+$envmap env_cubemap
+$envmaptint "[.01 .01 .01]"
+$envmapcontrast 0
+$envmapsaturation 1
+
+
+
+
+
+
+$rimlight 1 
+$rimlightexponent 1 
+$rimlightboost 1 
+}

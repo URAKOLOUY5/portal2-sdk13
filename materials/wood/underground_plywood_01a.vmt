@@ -1,0 +1,13 @@
+LightMappedGeneric
+{
+$basetexture "wood/underground_plywood_01a"
+$surfaceprop wood
+"%noportal" 1
+"%keywords" "portal2 underground"
+
+$envmap env_cubemap
+$bumpmap "wood/underground_plywood_01a-height-ssbump"
+$ssbump 1
+$normalmapenvmapmask 1
+$envmaptint "[.025 .025 .025]"
+}

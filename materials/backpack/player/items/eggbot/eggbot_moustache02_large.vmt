@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+$baseTexture "backpack\player\items\eggbot\eggbot_moustache02_large"
+$translucent 1
+}

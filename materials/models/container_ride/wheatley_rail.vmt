@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+$basetexture "models/container_ride/comp_V2-mia_material12SG-wheatleyRail"
+
+$surfaceprop default
+$selfillum 1
+
+
+$selfillummask "models/container_destruction/container_illum_mask"
+$selfillumtint "[0.125 0.125 0.125]"
+$phong 1
+$phongboost 1
+$halflambert 0
+$phongDisableHalfLambert 1
+$phongexponent 18
+$phongfresnelranges "[.2 .5 1]"
+$basemapalphaphongmask 1
+$rimlight 1
+$rimlightexponent 20
+$rimlightboost 3
+}

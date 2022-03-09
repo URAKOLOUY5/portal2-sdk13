@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+$basetexture "models/props/wall_pipes_horiz/wall_pipes_horiz"
+$surfaceprop metal
+$envmap env_cubemap
+$basealphaenvmapmask 1
+}

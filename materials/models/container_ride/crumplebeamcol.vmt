@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+$basetexture "models/container_ride/crumpleBeamCol"
+
+$surfaceprop default
+$selfillum 1
+
+
+$selfillummask "models/container_destruction/container_illum_mask"
+$selfillumtint "[0.025 0.025 0.025]"
+}

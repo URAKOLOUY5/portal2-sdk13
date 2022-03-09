@@ -1,0 +1,5 @@
+LightMappedGeneric
+{
+$basetexture "motel/motel_mural02"
+$surfaceprop default
+}

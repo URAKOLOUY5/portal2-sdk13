@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+$baseTexture "backpack\player\gesture\gesture_sit_spin_orange_large"
+$translucent 1
+}

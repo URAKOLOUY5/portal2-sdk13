@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+$baseTexture "backpack/player/items/pyro_hat_large"
+$translucent 1
+}

@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+$baseTexture "models\props\de_train/LadderAluminium"
+$envmap env_cubemap
+$envmapmask "models\props\de_train\LadderAluminium_ref"
+$surfaceprop metal
+$envmaptint "[1 1 1]"
+vertexlitgeneric_HDR_dx9
+{
+$envmaptint "[.1 .1 .1]"
+}
+}

@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+$baseTexture "backpack\player\items\eggbot\eggbot_flag_audiosurf_large"
+$translucent 1
+}

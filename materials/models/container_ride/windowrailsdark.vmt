@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+$basetexture "models/container_ride/comp_V2_windowRails"
+$color2 "[0.3 0.3 0.3]"
+
+$surfaceprop default
+$selfillum 1
+
+
+$selfillummask "models/container_destruction/container_illum_mask"
+$selfillumtint "[0.0125 0.0125 0.0125]"
+}

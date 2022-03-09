@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$basetexture "models/container_ride/hotel_glass001"
+$surfaceprop default
+}

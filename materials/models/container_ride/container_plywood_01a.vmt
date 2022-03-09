@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+$basetexture "models/container_ride/container_plywood_01a"
+$surfaceprop default
+$selfillum 1
+
+
+$selfillummask "models/container_destruction/container_illum_mask"
+$selfillumtint "[0.025 0.025 0.025]"
+}

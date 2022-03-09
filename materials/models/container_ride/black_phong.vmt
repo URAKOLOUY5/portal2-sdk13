@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+$basetexture "models/container_ride/flatBlack"
+$bumpmap "dev/flat_normal"
+$phong 1
+$phongboost 1
+$phongexponent 10
+
+$phongfresnelranges "[0 1 1]"
+}

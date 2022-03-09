@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+$baseTexture "backpack\player\items\bundle_argflag_catchup"
+$translucent 1
+}
