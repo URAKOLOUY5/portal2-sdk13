@@ -17,7 +17,7 @@ $envmaplightscale .6
 $detail "detail/detail_black_wall_metal_005"
 $detailscale 6
 $detailblendfactor .3
-$detailblendmode 7
+$detailblendmode 0
 $reflectivity "[ 0.6 0.6 0.6 ]" 
 "%noportal" 1
 "%keywords" "portal2 noportal chamber"

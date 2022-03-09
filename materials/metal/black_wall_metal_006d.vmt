@@ -20,6 +20,6 @@ $envmaptint .2 .2 .2
 $detail "detail/detail_tile"
 $detailscale 9
 $detailblendfactor 1
-$detailblendmode 7
+$detailblendmode 0
 "%keywords" "portal2 noportal chamber"
 }
