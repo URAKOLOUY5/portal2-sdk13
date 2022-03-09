@@ -1,0 +1,5 @@
+SDK_VertexLitGeneric
+{
+$basetexture "HUD/camera_viewfinder_normal_ul"
+$surfaceprop default
+}

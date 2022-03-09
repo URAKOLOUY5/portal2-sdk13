@@ -1,0 +1,6 @@
+SDK_VertexLitGeneric
+{
+$basetexture "br_debris/deb_broken_radio_C.vtf"
+$surfaceprop default
+$selfillum 1
+}

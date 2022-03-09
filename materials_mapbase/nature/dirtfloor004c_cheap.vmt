@@ -1,0 +1,22 @@
+SDK_LightmappedGeneric
+{
+$basetexture "nature/dirtfloor004c"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$surfaceprop default
+"%keywords" "portal2 destruction chamber"
+"%noportal" 1
+}

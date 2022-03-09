@@ -1,0 +1,9 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models\props_trainstation\wrecked_boxcar_gate"
+$detail "detail\metal_detail_01"
+$detailscale "14.3974"
+$detailblendfactor .8
+$detailblendmode 0
+$color2 "[1.8 1.8 1.8]"
+}

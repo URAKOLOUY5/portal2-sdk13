@@ -1,0 +1,9 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/container_ride/container_lowres"
+
+$surfaceprop default
+
+
+
+}

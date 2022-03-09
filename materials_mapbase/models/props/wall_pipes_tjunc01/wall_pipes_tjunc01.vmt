@@ -1,0 +1,7 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/props/wall_pipes_tjunc01/wall_pipes_tjunc01"
+$surfaceprop metal
+$envmap env_cubemap
+$basealphaenvmapmask 1
+}

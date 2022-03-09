@@ -1,0 +1,7 @@
+SDK_LightmappedGeneric
+{
+$basetexture "signage/hazard_orange_03b"
+$surfaceprop glass
+$selfillum 1
+"%keywords" portal
+}

@@ -1,0 +1,7 @@
+SDK_UnlitGeneric
+{
+$baseTexture "vgui/store/mannco_promo"
+$translucent 1
+$vertexalpha 1
+$alphatest 1
+}

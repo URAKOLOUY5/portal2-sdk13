@@ -1,0 +1,5 @@
+SDK_UnlitGeneric
+{
+$baseTexture "vgui/store/store_bracket_top"
+$translucent 1
+}

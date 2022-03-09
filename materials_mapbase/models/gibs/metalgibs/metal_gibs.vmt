@@ -1,0 +1,11 @@
+SDK_VertexLitGeneric
+{
+$color "[1 1 1]"
+$baseTexture "models/gibs/metalgibs/metal_gibs"
+
+
+
+$envmap env_cubemap
+$basealphaenvmapmask 1
+
+}

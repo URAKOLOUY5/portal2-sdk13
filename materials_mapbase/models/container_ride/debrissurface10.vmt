@@ -1,0 +1,22 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/container_ride/comp_V2-mia_material6SG-interiorWalls_10"
+
+
+$surfaceprop default
+$selfillum 1
+
+
+$selfillummask "models/container_destruction/container_illum_mask"
+$selfillumtint "[0.045 0.045 0.045]"
+
+
+
+
+
+
+
+
+
+
+}

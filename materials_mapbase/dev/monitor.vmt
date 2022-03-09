@@ -1,0 +1,7 @@
+SDK_UnlitGeneric
+{
+$basetexture _rt_Camera
+"%tooltexture" "dev/dev_monitor"
+$surfaceprop glass
+$vertexcolor 1
+}

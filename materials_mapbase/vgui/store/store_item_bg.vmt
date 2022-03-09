@@ -1,0 +1,5 @@
+SDK_UnlitGeneric
+{
+$baseTexture "vgui/store/store_item_bg"
+$translucent 1
+}

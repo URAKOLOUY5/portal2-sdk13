@@ -1,0 +1,10 @@
+SDK_VertexLitGeneric
+{
+$baseTexture "models\props_factory/conveyor_belt_module"
+$bumpmap "models\props_factory/conveyor_belt_module_normal"
+$phong 1
+$phongboost 1
+$phongexponent 128
+$phongfresnelranges "[.6 1 2]"
+$basemapalphaphongmask 1
+}

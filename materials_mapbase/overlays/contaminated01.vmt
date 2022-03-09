@@ -1,0 +1,6 @@
+SDK_LightmappedGeneric
+{
+$basetexture "overlays/contaminated01"
+$surfaceprop default
+$decal 1
+}

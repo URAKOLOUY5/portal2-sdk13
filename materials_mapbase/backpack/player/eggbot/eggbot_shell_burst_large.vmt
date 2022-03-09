@@ -1,0 +1,5 @@
+SDK_UnlitGeneric
+{
+$baseTexture "backpack\player\eggbot\eggbot_shell_burst_large"
+$translucent 1
+}

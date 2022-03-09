@@ -1,0 +1,4 @@
+SDK_UnlitGeneric
+{
+$baseTexture "vgui/store/store_check"
+}

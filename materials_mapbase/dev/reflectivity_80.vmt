@@ -1,0 +1,6 @@
+SDK_LightmappedGeneric
+{
+
+$basetexture "Dev/reflectivity_80"
+$surfaceprop concrete
+}

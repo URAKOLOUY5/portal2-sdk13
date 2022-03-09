@@ -1,0 +1,8 @@
+SDK_LightmappedGeneric
+{
+$basetexture "overlays/dirtartifacts01a"
+$surfaceprop default
+$translucent 1
+$decal 1
+"%keywords" portal2
+}

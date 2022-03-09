@@ -1,0 +1,4 @@
+SDK_VertexLitGeneric
+{
+$baseTexture "models/props_mall/cage_light_fixture.vtf"
+}

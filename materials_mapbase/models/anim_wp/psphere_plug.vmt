@@ -1,0 +1,11 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models\anim_wp\psphere_plug"
+$selfillum 1
+$surfaceprop metal
+
+
+
+
+
+}

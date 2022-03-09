@@ -1,0 +1,15 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models\props_trainstation\train_boxcar"
+$detail "detail\metal_detail_01"
+$detailscale "12.3974"
+$detailblendfactor .8
+$detailblendmode 0
+
+
+
+
+
+
+
+}

@@ -1,0 +1,7 @@
+SDK_LightmappedGeneric
+{
+$basetexture "overlays/blacktile_stain01"
+$surfaceprop default
+$translucent 1
+$decal 1
+}

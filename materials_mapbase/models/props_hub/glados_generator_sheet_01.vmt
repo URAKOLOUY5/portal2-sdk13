@@ -1,0 +1,13 @@
+SDK_VertexLitGeneric
+{
+$baseTexture "models\props_hub/glados_generator_sheet_01"
+
+$surfaceprop metal
+
+
+
+
+
+
+
+}

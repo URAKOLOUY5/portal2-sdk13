@@ -1,0 +1,7 @@
+SDK_LightmappedGeneric
+{
+$basetexture "overlays/paint_splatter001"
+$surfaceprop default
+$translucent 1
+$decal 1
+}

@@ -1,0 +1,5 @@
+SDK_UnlitGeneric
+{
+$baseTexture "backpack\player\items\eggbot\eggbot_flag_dejobaan"
+$translucent 1
+}

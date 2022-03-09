@@ -1,0 +1,75 @@
+rollvar $detail2texturetransform
+texturescrollrate $detail2scrollrate
+texturescrollangle 0
+}
+}
+}
+e $detail1scrollrate
+texturescrollangle 190
+}
+TextureScroll
+{
+texturescrollvar $detail2texturetransform
+texturescrollrate $detail2scrollrate
+texturescrollangle 180
+}
+TextureScroll
+{
+texturescrollvar $basetexturetransform
+texturescrollrate $scrollrate
+texturescrollangle -180
+}
+}
+}
+noise
+resultvar $a_b_noise
+}
+GaussianNoise
+{
+mean $zero
+halfwidth $a_s_halfwidth
+resultVar $a_s_noise
+}
+Abs
+{
+srcVar1 $a_s_noise
+resultVar $a_s_noise
+}
+Subtract
+{
+srcvar1 $one
+srcvar2 $a_s_noise
+resultvar $a_s_noise
+}
+GaussianNoise
+{
+mean $a_threshold
+halfwidth $a_t_halfwidth
+resultVar $a_threshold
+}
+LessOrEqual
+{
+srcVar1 $a_b_noise
+srcVar2 $a_threshold
+lessEqualVar $a_b_noise
+greaterVar $a_s_noise
+resultVar $temp
+}
+
+GaussianNoise
+{
+mean $zero
+halfwidth $j_b_halfwidth
+resultVar $j_b_noise
+}
+GaussianNoise
+{
+mean $zero
+halfwidth $j_s_halfwidth
+resultVar $j_s_noise
+}
+GaussianNoise
+{
+mean $j_threshold
+halfwidth $j_t_halfwidth
+resultVar $j_threshol

@@ -1,0 +1,6 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/props_underground/exo_frame"
+$surfaceprop default
+"%noportal" 1
+}

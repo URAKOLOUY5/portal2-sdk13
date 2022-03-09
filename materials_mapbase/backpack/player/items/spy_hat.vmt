@@ -1,0 +1,6 @@
+SDK_UnlitGeneric
+{
+$baseTexture "backpack/player/items/spy_hat"
+$translucent 1
+$vertexcolor 1
+}

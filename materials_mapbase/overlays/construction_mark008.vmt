@@ -1,0 +1,7 @@
+SDK_LightmappedGeneric
+{
+$basetexture "overlays/construction_mark008"
+$surfaceprop default
+$translucent 1
+$decal 1
+}

@@ -1,0 +1,15 @@
+SDK_VertexLitGeneric
+{
+$baseTexture "models\props_hub/Glados_stairs_glass"
+$translucent 1
+
+
+"%noportal" 1
+$surfaceprop glass
+
+
+
+
+
+
+}

@@ -1,0 +1,5 @@
+SDK_UnlitGeneric
+{
+$baseTexture "backpack\player\gesture\gesture_shrug_blue_large"
+$translucent 1
+}

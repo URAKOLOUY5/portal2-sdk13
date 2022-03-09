@@ -1,0 +1,5 @@
+SDK_UnlitGeneric
+{
+$baseTexture "backpack\player\ballbot\ballbot_shell_black_large"
+$translucent 1
+}

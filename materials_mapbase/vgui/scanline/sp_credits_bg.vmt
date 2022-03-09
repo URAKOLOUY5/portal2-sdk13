@@ -1,0 +1,5 @@
+SDK_UnlitGeneric
+{
+$basetexture "VGUI/scanline/sp_credits_bg"
+$surfaceprop default
+}

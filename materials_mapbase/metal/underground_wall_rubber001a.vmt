@@ -1,0 +1,5 @@
+SDK_LightmappedGeneric
+{
+$basetexture "metal/underground_wall_rubber001a"
+$surfaceprop default
+}

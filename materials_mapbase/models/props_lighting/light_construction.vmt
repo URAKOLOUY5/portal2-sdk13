@@ -1,0 +1,4 @@
+SDK_VertexLitGeneric
+{
+$baseTexture "models\Props_Lighting/light_construction"
+}

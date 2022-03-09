@@ -1,0 +1,5 @@
+SDK_UnlitGeneric
+{
+$baseTexture "vgui/store/thumbnail_Atlas"
+$translucent 0
+}

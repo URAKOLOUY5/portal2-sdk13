@@ -1,0 +1,13 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models\props_factory\factory_parts_stack"
+$bumpmap "dev/flat_normal"
+$phongexponent 1
+$phongtint "[1 1 1]"
+$phongboost 1
+$phongfresnelranges "[0 0.5 1]"
+$detail "detail\detail_concrete001a"
+$detailscale "4.25"
+$detailblendfactor .5
+$detailblendmode 0
+}

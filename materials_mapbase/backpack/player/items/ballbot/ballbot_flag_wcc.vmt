@@ -1,0 +1,6 @@
+SDK_UnlitGeneric
+{
+$baseTexture "backpack\player\items\ballbot\ballbot_flag_wcc"
+$translucent 1
+$vertexcolor 1
+}

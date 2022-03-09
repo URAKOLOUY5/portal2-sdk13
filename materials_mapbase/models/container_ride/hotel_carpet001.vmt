@@ -1,0 +1,5 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/container_ride/hotel_carpet001"
+$surfaceprop default
+}

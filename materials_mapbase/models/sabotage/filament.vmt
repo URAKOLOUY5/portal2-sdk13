@@ -1,0 +1,32 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/sabotage/filament"
+$surfaceprop default
+
+$additive 1
+$selfillum 1
+Proxies
+{
+Sine
+{
+sineperiod "2.5"
+sinemin ".6"
+sinemax 1
+resultVar "$selfillumtint[0]"
+}
+Sine
+{
+sineperiod "2.5"
+sinemin ".2"
+sinemax 1
+resultVar "$selfillumtint[1]"
+}
+Sine
+{
+sineperiod "2.5"
+sinemin ".2"
+sinemax 1
+resultVar "$selfillumtint[2]"
+}
+}
+}

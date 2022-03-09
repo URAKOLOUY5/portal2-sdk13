@@ -1,0 +1,7 @@
+SDK_VertexLitGeneric
+{
+
+$basetexture "Dev/reflectivity_20b"
+$surfaceprop concrete
+"%noportal" 1
+}

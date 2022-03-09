@@ -1,0 +1,6 @@
+SDK_UnlitGeneric
+{
+$baseTexture "backpack/player/items/all_manncap"
+$translucent 1
+$vertexcolor 1
+}

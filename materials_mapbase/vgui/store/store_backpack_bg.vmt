@@ -1,0 +1,6 @@
+SDK_UnlitGeneric
+{
+$basetexture "vgui\store\store_backpack_bg"
+$translucent 1
+$ignorez 1
+}

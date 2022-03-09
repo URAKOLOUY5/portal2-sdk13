@@ -1,0 +1,11 @@
+SDK_VertexLitGeneric
+{
+$basetexture "Models/destruction_tanker/blackCable"
+
+$selfillum 0
+
+$phong 1
+$phongexponent 10
+$phongboost "0.5"
+$phongfresnelranges "[0.6 1 1]"
+}

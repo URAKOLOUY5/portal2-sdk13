@@ -1,0 +1,21 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/container_ride/rust"
+
+$surfaceprop default
+$selfillum 1
+
+
+$selfillummask "models/container_destruction/container_illum_mask"
+$selfillumtint "[0.025 0.025 0.025]"
+"!gameconsole?$phong" 1
+"!gameconsole?$phongboost" ".5"
+"!gameconsole?$halflambert" 0
+"!gameconsole?$phongDisableHalfLambert" 0
+"!gameconsole?$phongexponent" 22
+"!gameconsole?$phongfresnelranges" "[.2 .5 1]"
+"!gameconsole?$basemapalphaphongmask" 1
+"!gameconsole?$rimlight" 1
+"!gameconsole?$rimlightexponent" 20
+"!gameconsole?$rimlightboost" 3
+}

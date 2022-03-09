@@ -1,0 +1,7 @@
+SDK_LightmappedGeneric
+{
+$basetexture "wood/underground_woodtrim001a"
+$surfaceprop wood
+"%keywords" "portal2 underground"
+"%noportal" 1
+}

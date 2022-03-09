@@ -1,0 +1,10 @@
+SDK_VertexLitGeneric
+{
+$baseTexture "models\props_factory/conveyor_belt"
+$surfaceprop default
+
+
+
+
+
+}

@@ -1,0 +1,19 @@
+SDK_VertexLitGeneric
+{
+$basetexture "traincar_interior/traincar_cube_bl_C"
+$surfaceprop default
+$bumpmap "traincar_interior/traincar_cube_bl_B"
+$ambientocclusion 1
+$envmap env_cubemap
+$envmaptint "[.01 .01 .01]"
+$envmapcontrast 0
+$envmapsaturation 1
+
+$phong 1
+$phongboost ".7"
+$phongexponenttexture "traincar_interior/traincar_cube_bl_S"
+$phongfresnelranges "[.1 .1 7]"
+$rimlight 1 
+$rimlightexponent 1 
+$rimlightboost 1 
+}

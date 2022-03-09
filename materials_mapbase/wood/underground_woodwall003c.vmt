@@ -1,0 +1,5 @@
+SDK_LightmappedGeneric
+{
+$basetexture "wood/underground_woodwall003c"
+$surfaceprop default
+}

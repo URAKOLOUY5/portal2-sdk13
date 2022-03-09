@@ -1,0 +1,6 @@
+SDK_UnlitGeneric
+{
+$basetexture "Models/stars/combinedStarTexture"
+
+$nofog 1
+}

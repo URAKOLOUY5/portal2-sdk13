@@ -1,0 +1,6 @@
+SDK_LightmappedGeneric
+{
+$basetexture "overlays/container_window001a"
+$surfaceprop default
+$decal 1
+}

@@ -1,0 +1,6 @@
+SDK_UnlitGeneric
+{
+$baseTexture "backpack\player\gesture\gesture_headspin_blue"
+$vertexcolor 1
+$translucent 1
+}

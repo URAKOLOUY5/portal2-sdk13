@@ -1,0 +1,16 @@
+SDK_LightmappedGeneric
+{
+$baseTexture "signage/signage_doorstate"
+$surfaceprop glass
+$selfillum 1
+"%keywords" portal
+Proxies
+{
+ToggleTexture
+{
+toggleTextureVar $baseTexture
+toggleTextureFrameNumVar $frame
+toggleTextureShouldWrap 0
+}
+}
+}

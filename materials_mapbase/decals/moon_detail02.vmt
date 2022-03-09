@@ -1,0 +1,7 @@
+SDK_LightmappedGeneric
+{
+$basetexture "decals/moon_detail02"
+$surfaceprop default
+$translucent 1
+$decal 1
+}

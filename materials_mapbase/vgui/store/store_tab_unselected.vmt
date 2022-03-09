@@ -1,0 +1,5 @@
+SDK_UnlitGeneric
+{
+$baseTexture "vgui/store/store_tab_back"
+$translucent 1
+}

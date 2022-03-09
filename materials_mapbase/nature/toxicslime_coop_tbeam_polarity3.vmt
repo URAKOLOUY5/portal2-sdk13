@@ -1,0 +1,88 @@
+l"
+$surfaceprop slime
+}
+l"
+$surfaceprop slime
+}
+"
+$surfaceprop slime
+}
+
+$surfaceprop slime
+}
+$surfaceprop slime
+}
+aceprop slime
+}
+mal"
+$surfaceprop slime
+}
+
+"%tooltexture" "nature/water_frame01_normal"
+$surfaceprop slime
+}
+
+$surfaceprop slime
+}
+mal"
+$surfaceprop slime
+}
+urfaceprop slime
+}
+
+$surfaceprop slime
+}
+surfaceprop slime
+}
+e01_normal"
+$surfaceprop slime
+}
+oise
+}
+GaussianNoise
+{
+mean $zero
+halfwidth $a_s_halfwidth
+resultVar $a_s_noise
+}
+Abs
+{
+srcVar1 $a_s_noise
+resultVar $a_s_noise
+}
+Subtract
+{
+srcvar1 $one
+srcvar2 $a_s_noise
+resultvar $a_s_noise
+}
+GaussianNoise
+{
+mean $a_threshold
+halfwidth $a_t_halfwidth
+resultVar $a_threshold
+}
+LessOrEqual
+{
+srcVar1 $a_b_noise
+srcVar2 $a_threshold
+lessEqualVar $a_b_noise
+greaterVar $a_s_noise
+resultVar $temp
+}
+
+GaussianNoise
+{
+mean $zero
+halfwidth $j_b_halfwidth
+resultVar $j_b_noise
+}
+GaussianNoise
+{
+mean $zero
+halfwidth $j_s_halfwidth
+resultVar $j_s_noise
+}
+GaussianNoise
+{
+mean $j_thr

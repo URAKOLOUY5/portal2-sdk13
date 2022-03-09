@@ -1,0 +1,10 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/sabotage/volcano_lemon"
+$bumpmap "models/sabotage/volcano_lemon_normal"
+
+$phong 1
+$phongboost 1
+$phongexponent 20
+$phongfresnelranges "[.5 1 2]"
+}

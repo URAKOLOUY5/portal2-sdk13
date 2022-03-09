@@ -1,0 +1,5 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/npcs/turret/turret_broken"
+$surfaceprop solidmetal
+}

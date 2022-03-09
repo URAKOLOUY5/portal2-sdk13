@@ -1,0 +1,5 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/container_ride/concrete_bts_floor002a"
+$surfaceprop default
+}

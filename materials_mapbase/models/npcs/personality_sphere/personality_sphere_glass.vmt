@@ -1,0 +1,11 @@
+SDK_VertexLitGeneric
+{
+$baseTexture "models/npcs/personality_sphere/personality_sphere_glass"
+
+$translucent 1
+
+
+
+
+
+}

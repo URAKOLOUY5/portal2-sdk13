@@ -1,0 +1,6 @@
+SDK_LightmappedGeneric
+{
+$basetexture "tile/observation_tileceiling001a"
+$surfaceprop plaster
+"%keywords" "portal2 chamber"
+}

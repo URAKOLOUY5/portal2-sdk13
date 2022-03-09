@@ -1,0 +1,4 @@
+SDK_VertexLitGeneric
+{
+$baseTexture "models\props_unique/Wooden_Barricade"
+}

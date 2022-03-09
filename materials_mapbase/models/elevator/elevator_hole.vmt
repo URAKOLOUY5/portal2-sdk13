@@ -1,0 +1,10 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models\elevator\elevator_hole"
+$selfillum 1
+
+
+
+
+
+}

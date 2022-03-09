@@ -1,0 +1,7 @@
+SDK_LightmappedGeneric
+{
+
+$basetexture "Dev/reflectivity_10b"
+$surfaceprop concrete
+"%noportal" 1
+}

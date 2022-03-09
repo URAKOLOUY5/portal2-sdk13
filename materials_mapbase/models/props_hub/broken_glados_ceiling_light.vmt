@@ -1,0 +1,10 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/props_hub/broken_glados_ceiling_light"
+$surfaceprop metal
+
+$phong 1
+$phongboost 1
+$phongexponent 10
+$phongfresnelranges "[.1 .5 1]"
+}

@@ -1,0 +1,7 @@
+SDK_UnlitGeneric
+{
+$basetexture "skybox/br_star_single"
+$nofog 1
+$translucent 1
+
+}

@@ -1,0 +1,6 @@
+SDK_UnlitGeneric
+{
+$basetexture "skybox/sky_blackbk.vtf"
+$hdrbasetexture "skybox/sky_blackbk.vtf"
+$nofog 1
+}

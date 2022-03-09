@@ -1,0 +1,6 @@
+SDK_VertexLitGeneric
+{
+$baseTexture "models/props_lights/under_neonlamp_orange"
+$surfaceprop metal
+$selfillum 1
+}

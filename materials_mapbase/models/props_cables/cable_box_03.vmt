@@ -1,0 +1,6 @@
+
+SDK_VertexLitGeneric
+{
+$baseTexture "models/props_cables/cable_box_03"
+$selfillum 1
+}

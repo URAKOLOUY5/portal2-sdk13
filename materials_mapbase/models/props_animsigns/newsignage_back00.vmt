@@ -1,0 +1,6 @@
+SDK_VertexLitGeneric
+{
+$basetexture "Models/props_animsigns/newsignage_back00"
+$surfaceprop metal
+
+}

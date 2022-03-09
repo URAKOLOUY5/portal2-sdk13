@@ -1,0 +1,7 @@
+SDK_LightmappedGeneric
+{
+$baseTexture "Wood/woodpanel_002"
+$surfaceprop wood
+"%noportal" 1
+"%keywords" aperture
+}

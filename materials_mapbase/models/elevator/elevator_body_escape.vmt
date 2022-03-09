@@ -1,0 +1,16 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models\elevator\elevator_body_escape"
+$selfillum 1
+
+
+
+
+
+
+
+
+
+
+
+}

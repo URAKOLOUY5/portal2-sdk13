@@ -1,0 +1,6 @@
+SDK_UnlitGeneric
+{
+$basetexture "vgui\screens\vgui_bg"
+$vertexcolor 1
+$ignorez 1
+}

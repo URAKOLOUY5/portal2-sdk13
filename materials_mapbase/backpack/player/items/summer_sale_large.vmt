@@ -1,0 +1,5 @@
+SDK_UnlitGeneric
+{
+$baseTexture "backpack/player/items/summer_sale_large"
+$translucent 1
+}

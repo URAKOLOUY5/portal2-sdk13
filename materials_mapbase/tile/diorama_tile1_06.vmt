@@ -1,0 +1,6 @@
+SDK_LightmappedGeneric
+{
+$baseTexture "Tile/diorama_tile1_06"
+$surfaceprop metal
+"%keywords" "portal2 chamber"
+}

@@ -1,0 +1,15 @@
+SDK_LightmappedGeneric
+{
+$baseTexture "signage/underground_depth"
+$surfaceprop metal
+"%keywords" "portal2 underground"
+Proxies
+{
+ToggleTexture
+{
+toggleTextureVar $baseTexture
+toggleTextureFrameNumVar $frame
+toggleTextureShouldWrap 0
+}
+}
+}

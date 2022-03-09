@@ -1,0 +1,6 @@
+SDK_LightmappedGeneric
+{
+$basetexture "props/carpetfloor003b_top"
+$surfaceprop default
+"%noportal" 1
+}

@@ -1,0 +1,10 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models\a4_destruction\portal_door_lowres"
+$selfillum 1
+
+
+
+
+
+}

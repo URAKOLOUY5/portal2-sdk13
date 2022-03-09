@@ -1,0 +1,14 @@
+SDK_WorldVertexTransition
+{
+$basetexture "moon/moon_texture02"
+$basetexture2 "moon/moon_texture02"
+$surfaceprop rock
+"%keywords" "portal2 moon"
+"GPU>=1"
+{
+$blendmodulatetexture "moon/moonblendtexture001a"
+$bumpmap "moon/moon_texture03-ssbump"
+$bumpmap2 "moon/moon_texture02-ssbump"
+$ssbump 1
+}
+}

@@ -1,0 +1,15 @@
+SDK_LightmappedGeneric
+{
+$basetexture "Concrete/observationwall_001b"
+$surfaceprop concrete
+$ssbump 1
+
+$SSBumpMathFix 1
+
+
+
+
+
+
+"%keywords" portal2
+}

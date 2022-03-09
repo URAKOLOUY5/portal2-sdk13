@@ -1,0 +1,5 @@
+SDK_UnlitGeneric
+{
+$baseTexture "backpack\player\items\eggbot\eggbot_flag_moon_large"
+$translucent 1
+}

@@ -1,0 +1,5 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/props/128_fuse_set05/128_fuse_set05_b"
+$surfaceprop metal
+}

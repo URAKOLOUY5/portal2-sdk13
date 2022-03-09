@@ -1,0 +1,6 @@
+SDK_UnlitGeneric
+{
+$baseTexture "backpack/player/items/jarate_headband"
+$translucent 1
+$vertexcolor 1
+}

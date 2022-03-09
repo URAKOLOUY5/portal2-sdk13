@@ -1,0 +1,6 @@
+SDK_LightmappedGeneric
+{
+$basetexture "concrete/underground_concrete_tile001b"
+$surfaceprop default
+"%noportal" 1
+}

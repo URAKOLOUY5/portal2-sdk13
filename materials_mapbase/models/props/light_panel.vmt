@@ -1,0 +1,12 @@
+SDK_VertexLitGeneric
+{
+$baseTexture "models\props/light_panel"
+
+
+
+
+
+
+
+$selfillum 1
+}

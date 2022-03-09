@@ -1,0 +1,7 @@
+SDK_LightmappedGeneric
+{
+$basetexture "signage/underground_robots"
+$surfaceprop default
+$decal 1
+$translucent 1
+}

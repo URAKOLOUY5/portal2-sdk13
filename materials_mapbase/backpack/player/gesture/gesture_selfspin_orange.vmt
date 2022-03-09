@@ -1,0 +1,5 @@
+SDK_UnlitGeneric
+{
+$baseTexture "backpack\player\gesture\gesture_selfspin_orange"
+$translucent 1
+}

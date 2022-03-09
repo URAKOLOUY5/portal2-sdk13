@@ -1,0 +1,8 @@
+SDK_LightmappedGeneric
+{
+
+$basetexture "Metal/metalwall060a"
+$surfaceprop metal
+"%keywords" "airexchange,combine"
+"%noportal" 1
+}

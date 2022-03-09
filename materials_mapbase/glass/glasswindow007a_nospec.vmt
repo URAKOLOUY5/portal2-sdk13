@@ -1,0 +1,8 @@
+SDK_LightmappedGeneric
+{
+$basetexture "Glass/glasswindow007a"
+$surfaceprop glass
+$translucent 1
+
+
+}

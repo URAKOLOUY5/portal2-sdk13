@@ -1,0 +1,13 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/sabotage/spud_roots"
+$surfaceprop default
+$bumpmap "models/sabotage/roots_normal"
+$translucent 1
+
+
+$phong 1
+$phongboost 1
+$phongexponent 20
+$phongfresnelranges "[.5 1 2]"
+}

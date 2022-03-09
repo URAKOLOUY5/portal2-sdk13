@@ -1,0 +1,8 @@
+SDK_LightmappedGeneric
+{
+$baseTexture "wood/plywood_ext_01"
+$surfaceprop wood
+
+
+"%keywords" l4d2
+}

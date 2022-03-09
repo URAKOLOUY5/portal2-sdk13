@@ -1,0 +1,33 @@
+
+SDK_LightmappedGeneric
+{
+$basetexture "plastic/plasticwall001a"
+"%keywords" portal
+
+
+$envmap env_cubemap
+$envmaptint "[ .03 .03 .03 ]"
+$envmapcontrast 0.5
+$envmapsaturation 1
+SDK_LightmappedGeneric_HDR_DX9
+{
+$bumpmap "plastic/plasticwall001a_normal"
+
+}
+SDK_LightmappedGeneric_DX9
+{
+$bumpmap "plastic/plasticwall001a_normal"
+
+}
+SDK_LightmappedGeneric_DX8
+{
+$bumpmap "plastic/plasticwall001a_normal"
+$nodiffusebumplighting 1
+
+}
+SDK_LightmappedGeneric_NoBump_DX8
+{
+$basetexture "plastic/plasticwall001a"
+
+}
+}

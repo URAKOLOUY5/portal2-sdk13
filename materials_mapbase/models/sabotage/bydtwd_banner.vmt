@@ -1,0 +1,6 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/sabotage/BYDTWD_banner"
+$surfaceprop default
+$translucent 1
+}

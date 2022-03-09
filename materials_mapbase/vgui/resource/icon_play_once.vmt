@@ -1,0 +1,5 @@
+SDK_UnlitGeneric
+{
+$basetexture "vgui\resource\icon_play_once"
+$ignorez 1
+}

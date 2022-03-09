@@ -1,0 +1,5 @@
+SDK_LightmappedGeneric
+{
+$basetexture "plastic/plasticwall1970_01_bottom"
+$surfaceprop default
+}

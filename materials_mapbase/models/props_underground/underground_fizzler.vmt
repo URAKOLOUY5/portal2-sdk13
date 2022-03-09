@@ -1,0 +1,14 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/props_underground/underground_fizzler"
+
+
+
+
+
+
+
+
+
+$selfillum 1
+}

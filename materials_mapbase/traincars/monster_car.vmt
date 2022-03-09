@@ -1,0 +1,19 @@
+SDK_VertexLitGeneric
+{
+$basetexture "traincars/monstercar_color_adjusted"
+$surfaceprop default
+$bumpmap "traincars/monstercar_normal"
+$ambientocclusion 1
+$envmap env_cubemap
+$envmaptint "[.1 .1 .1]"
+$envmapcontrast 0
+$envmapsaturation 1
+
+$phong 1
+$phongboost ".5"
+$phongexponenttexture "traincars/monstercar_S"
+$phongfresnelranges "[.1 .1 7]"
+$rimlight ".8" 
+$rimlightexponent ".8" 
+$rimlightboost 1 
+}

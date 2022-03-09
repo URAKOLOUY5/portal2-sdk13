@@ -1,0 +1,14 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/gladdysDestruction/rocket_engine"
+
+
+
+$envmap env_cubemap
+$envmaptint "[.35 .35 .35]"
+
+
+
+
+
+}

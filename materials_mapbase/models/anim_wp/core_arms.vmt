@@ -1,0 +1,10 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models\anim_wp\core_arms"
+$selfillum 1
+
+
+
+
+
+}

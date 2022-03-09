@@ -1,0 +1,8 @@
+SDK_UnlitGeneric
+{
+$basetexture "models/animated_wallpanels/wallpanel_temp_white"
+$selfillum 1
+$surfaceprop glass
+$reflectivity "[0 0 0]"
+$nodecal 1
+}

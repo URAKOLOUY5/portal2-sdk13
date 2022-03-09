@@ -1,0 +1,11 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/container_ride/comp_V2-mia_material14SG-newDoors_exp_brush_12006"
+
+$surfaceprop default
+$selfillum 1
+
+
+$selfillummask "models/container_destruction/container_illum_mask"
+$selfillumtint "[0.025 0.025 0.025]"
+}

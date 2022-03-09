@@ -1,0 +1,7 @@
+SDK_LightmappedGeneric
+{
+$basetexture "plastic/plasticwall002a"
+$surfaceprop default
+"%keywords" aperture
+"%noportal" 1
+}

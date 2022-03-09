@@ -1,0 +1,5 @@
+SDK_UnlitGeneric
+{
+$baseTexture "backpack/player/items/all_manncap_large"
+$translucent 1
+}

@@ -1,0 +1,16 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/container_ride/fallingBeamDebris2Col"
+
+$surfaceprop default
+"!gameconsole?$phong" 1
+"!gameconsole?$phongboost" 6
+"!gameconsole?$halflambert" 0
+"!gameconsole?$phongDisableHalfLambert" 0
+"!gameconsole?$phongexponent" 35
+"!gameconsole?$phongfresnelranges" "[.2 .5 1]"
+"!gameconsole?$basemapalphaphongmask" 1
+"!gameconsole?$rimlight" 1
+"!gameconsole?$rimlightexponent" 20
+"!gameconsole?$rimlightboost" 3
+}

@@ -1,0 +1,10 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models\props_bts\turret_scanner_screen_no_match"
+$selfillum 1
+
+
+
+
+
+}

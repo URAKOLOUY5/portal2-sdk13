@@ -1,0 +1,9 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/container_ride/rebars2"
+$alphatest 1
+$surfaceprop default
+
+
+
+}

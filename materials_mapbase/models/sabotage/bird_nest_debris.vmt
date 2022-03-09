@@ -1,0 +1,6 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/sabotage/bird_nest_debris"
+$surfaceprop default
+$translucent 1
+}

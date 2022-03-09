@@ -1,0 +1,7 @@
+SDK_LightmappedGeneric
+{
+$basetexture "props/science_poster04"
+$surfaceprop default
+"%keywords" "portal2 office"
+"%noportal" 1
+}

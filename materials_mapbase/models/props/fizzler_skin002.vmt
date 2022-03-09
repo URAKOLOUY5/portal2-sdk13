@@ -1,0 +1,5 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/props/fizzler_skin002"
+$selfillum 1
+}

@@ -1,0 +1,6 @@
+SDK_LightmappedGeneric
+{
+
+$basetexture "Dev/dev_hazzardstripe01a"
+$surfaceprop concrete
+}

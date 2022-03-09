@@ -1,0 +1,7 @@
+SDK_UnlitGeneric
+{
+$basetexture "particle/snow"
+$translucent 1
+$vertexcolor 1
+$vertexalpha 1
+}

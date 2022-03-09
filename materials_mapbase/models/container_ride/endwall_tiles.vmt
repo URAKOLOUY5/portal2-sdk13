@@ -1,0 +1,5 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models/container_ride/endWall_TilesSigned"
+$surfaceprop default
+}

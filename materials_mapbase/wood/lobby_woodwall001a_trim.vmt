@@ -1,0 +1,6 @@
+SDK_LightmappedGeneric
+{
+$basetexture "wood/lobby_woodwall001a_trim"
+$surfaceprop wood
+"%noportal" 1
+}

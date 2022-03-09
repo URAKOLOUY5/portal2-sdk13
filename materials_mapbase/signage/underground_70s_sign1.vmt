@@ -1,0 +1,7 @@
+SDK_LightmappedGeneric
+{
+$basetexture "signage/underground_70s_sign1"
+$surfaceprop default
+$translucent 1
+$decal 1
+}

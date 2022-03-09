@@ -1,0 +1,7 @@
+SDK_LightmappedGeneric
+{
+$basetexture "overlays/ratman_thenational_01"
+$surfaceprop default
+$translucent 1
+$decal 1
+}

@@ -1,0 +1,6 @@
+SDK_LightmappedGeneric
+{
+$basetexture "Plaster/plasterwall037f"
+$surfaceprop plaster
+"%noportal" 1
+}

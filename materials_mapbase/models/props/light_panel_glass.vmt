@@ -1,0 +1,9 @@
+SDK_VertexLitGeneric
+{
+$baseTexture "models\props/light_panel_glass"
+$translucent 1
+$additive 1
+
+
+"%noportal" 1
+}

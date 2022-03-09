@@ -1,0 +1,20 @@
+SDK_VertexLitGeneric
+{
+$basetexture "traincar_interior/traincar_paper_C"
+$surfaceprop default
+$translucent 1
+$bumpmap "traincar_interior/traincar_paper_B"
+$ambientocclusion 1
+$envmap env_cubemap
+$envmaptint "[.01 .01 .01]"
+$envmapcontrast 0
+$envmapsaturation 1
+
+$phong ".4"
+$phongboost ".7"
+
+$phongfresnelranges "[.1 .1 7]"
+$rimlight 1 
+$rimlightexponent 1 
+$rimlightboost 1 
+}

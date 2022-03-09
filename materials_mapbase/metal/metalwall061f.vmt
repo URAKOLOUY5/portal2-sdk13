@@ -1,0 +1,6 @@
+SDK_LightmappedGeneric
+{
+$basetexture "Metal/metalwall061f"
+$surfaceprop metal
+"%noportal" 1
+}

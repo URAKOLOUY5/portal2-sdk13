@@ -1,0 +1,6 @@
+SDK_VertexLitGeneric
+{
+$translucent 1
+$basetexture "Decals/scorch2"
+$decal 1
+}

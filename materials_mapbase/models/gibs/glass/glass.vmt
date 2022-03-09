@@ -1,0 +1,8 @@
+SDK_UnlitGeneric
+{
+
+
+
+$envmap env_cubemap
+$model 1
+}

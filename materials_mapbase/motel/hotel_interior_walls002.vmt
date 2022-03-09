@@ -1,0 +1,7 @@
+SDK_LightmappedGeneric
+{
+$basetexture "motel/hotel_interior_walls002"
+$surfaceprop default
+$bumpmap "nature/dirtfloor004c_height-ssbump"
+$ssbump 1
+}

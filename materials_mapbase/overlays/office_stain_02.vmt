@@ -1,0 +1,7 @@
+SDK_LightmappedGeneric
+{
+$basetexture "overlays/office_stain_02"
+$surfaceprop default
+$translucent 1
+$decal 1
+}

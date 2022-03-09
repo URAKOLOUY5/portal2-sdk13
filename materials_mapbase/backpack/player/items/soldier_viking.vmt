@@ -1,0 +1,6 @@
+SDK_UnlitGeneric
+{
+$baseTexture "backpack/player/items/soldier_viking"
+$translucent 1
+$vertexcolor 1
+}

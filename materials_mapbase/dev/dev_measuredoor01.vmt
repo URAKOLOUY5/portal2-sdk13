@@ -1,0 +1,6 @@
+SDK_LightmappedGeneric
+{
+
+$basetexture "Dev/dev_measuredoor01"
+$surfaceprop concrete
+}

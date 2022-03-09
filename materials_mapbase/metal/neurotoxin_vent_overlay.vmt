@@ -1,0 +1,9 @@
+SDK_LightmappedGeneric
+{
+$basetexture "metal/neurotoxin_vent_overlay"
+$surfaceprop metal
+$translucent 1
+$decal 1
+"%noportal" 1
+"%nopaint" 1
+}

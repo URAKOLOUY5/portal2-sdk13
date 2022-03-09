@@ -1,0 +1,6 @@
+SDK_LightmappedGeneric
+{
+$basetexture "tile/underground_tilefloor001a"
+$surfaceprop default
+
+}

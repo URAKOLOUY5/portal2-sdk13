@@ -1,0 +1,7 @@
+SDK_LightmappedGeneric
+{
+$basetexture "signage/underground_geothermal"
+$decal 1
+$translucent 1
+"%keywords" aperture
+}

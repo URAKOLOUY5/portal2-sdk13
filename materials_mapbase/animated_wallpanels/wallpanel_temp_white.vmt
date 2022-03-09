@@ -1,0 +1,10 @@
+SDK_LightmappedGeneric
+{
+$basetexture "models/animated_wallpanels/wallpanel_temp_white"
+$surfaceprop metal
+
+$phong 1
+$phongboost 1
+$phongexponent 10
+$phongfresnelranges "[.1 .5 1]"
+}

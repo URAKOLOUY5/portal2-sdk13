@@ -1,0 +1,5 @@
+SDK_LightmappedGeneric
+{
+$basetexture "motel/doortrim01"
+$surfaceprop default
+}

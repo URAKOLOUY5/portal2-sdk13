@@ -1,0 +1,6 @@
+SDK_VertexLitGeneric
+{
+$basetexture "models\player\chell\chell_legs_diffuse"
+$color2 "[.82 .82 .82]"
+$halflambert 1
+}

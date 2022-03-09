@@ -1,0 +1,5 @@
+SDK_VertexLitGeneric
+{
+$basetexture "nature/dirtfloor004c"
+$surfaceprop default
+}
