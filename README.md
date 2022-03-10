@@ -1,4 +1,4 @@
-# Portal 2 assets for older branches (Source SDK 2013 and etc.)
+# ![](https://cdn.discordapp.com/attachments/619231812987650059/951440586450272256/portal2-9.png) Portal 2 assets for older branches (Source SDK 2013 and etc.)
 
 * Converted all textures 
   * Also there's separate folder with all vmts for Mapbase (`SDK_` shader). So if you want to use this asset pack for your mod based on Mapbase, just copy everything from `materials_mapbase` to `materials` folder.
