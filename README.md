@@ -5,7 +5,7 @@
 * Converted all textures 
   * Also there's separate folder with all vmts for Mapbase (`SDK_` shader). So if you want to use this asset pack for your mod based on Mapbase, just copy everything from `materials_mapbase` to `materials` folder.
 * Converted all models to `48 version` - [their sources (4,26 GB, in zip 454,5 MB)](https://mega.nz/file/YRMEwLRa#JUXfRouYCdwhEXBT226BhFXxr1HubafskjQbq6Sz1b4).
-* Fixed voice lines to be able play in game (other sounds is not included, you can copy them from Portal 2 install).
+* Fixed voice lines to be able play in game (other sounds aren't included, you can copy them from Portal 2 install).
 
 
 ## Current issues/missing stuff:
