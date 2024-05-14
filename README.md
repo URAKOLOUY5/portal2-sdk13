@@ -1,6 +1,4 @@
-# ![](https://cdn.discordapp.com/attachments/619231812987650059/951440586450272256/portal2-9.png) Portal 2 assets for older branches (Source SDK 2013 and etc.)
-
-![](https://cdn.discordapp.com/attachments/619231812987650059/950815314218729472/unknown.png)
+# ![](https://github.com/URAKOLOUY5/portal2-sdk13/assets/41019056/230bc29c-e978-443b-9617-6a2117e9018f) Portal 2 assets for older branches (Source SDK 2013 and etc.)
 
 * Converted all textures 
   * Also there's separate folder with all vmts for Mapbase (`SDK_` shader). So if you want to use this asset pack for your mod based on Mapbase, just copy everything from `materials_mapbase` to `materials` folder.
@@ -13,10 +11,12 @@
 * (missing) Blob textures (idk, i dont see reason to use them in the stock SDK).
 * (issue) `$detail` textures with ssbump aren't work in Source SDK 2013:
 
-![](https://cdn.discordapp.com/attachments/619231812987650059/951191799534329866/bumpmap.png)
-
+![bumpmap](https://github.com/URAKOLOUY5/portal2-sdk13/assets/41019056/f2d5884c-003d-4d15-808d-5540a47c21b0)
 
 * (issue) Skybox sky_white causes render bugs (can be fixed later)
 
+## If you have found bug you can make issue, if you want to contribute to this repository, you can create a fork and create pull request.
 
-## If you have found bug you can make issue, if you want to contribute to this repo, you can create a fork and create pull request.
+# Contributors
+
+* [Petercov](https://github.com/Petercov)
